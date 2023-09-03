@@ -1,0 +1,10 @@
+Requerimientos
+
+Tensorflow 2.12.0
+numpy 1.23.5
+matplotlib 3.7.1
+pandas 1.5.3
+seaborn 0.12.2
+keras 2.12.0
+sklearn 1.2.2
+Pickle
